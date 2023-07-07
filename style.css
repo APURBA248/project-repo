@@ -38,6 +38,8 @@
     height: 100vh;
     align-items: center;
     background-image: url(./images/background.png), linear-gradient(45deg,#111111,#0e0d0d);
+    background-position: center;
+    background-size: cover;
     color: #ffffff;
 }
 .benar-img{
