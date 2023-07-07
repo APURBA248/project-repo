@@ -65,3 +65,75 @@
     background-color: rgb(6, 2, 245);
     color: #00d9ffa2;
 }
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding: 20px;
+
+}
+.title{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: #fff8f8;
+    
+}
+.box{
+    width: 220px;
+    height: 280px;
+    background-color: #1b1a1a;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 10px;
+
+}
+.icon{
+    width: 70px;
+}
+.box-btn{
+    background-color: gray;
+    padding: 15px;
+}
+.box-title{
+    padding: 10px;
+}
+.box-description{
+    padding: 5px;
+}
+.services-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color:rgb(29, 26, 26)
+    
+}
+.foot-container{
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:rgb(15, 15, 15)
+}
+.foot{
+    text-align: center;
+    width: 150px;
+    color: #ffffff;
+}
+.foot-title{
+    padding: 25px;
+}
+.foot-description{
+    width: 50px;
+}
+.copy{
+    text-align: center;
+    background-color:rgb(15, 15, 15)
+    
+}
+.copy-coor{
+    color: #ffffff;
+}
